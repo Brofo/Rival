@@ -1,2 +1,1 @@
-# Rival
-Rival Drinking Game
+
